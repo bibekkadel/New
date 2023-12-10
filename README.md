@@ -22,5 +22,3 @@ Through these exercises, I have had the following learnings.
 17.	NumPy Operations: Utilizing NumPy for efficient element-wise calculations.
 18.	Data Visualization: Using Python libraries for graphical representation of data.
 19.	Time Series Plotting: Plotting time-series data to represent variations and highlight key points.
-
-![image](https://github.com/bibekkadel/Programming_for_Analytics_Exercises/assets/105727363/d8feee72-7ff4-41bc-97c4-f4b58aa9711d)
